@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VimeoDownloader</string>
+    <string name="BTN_DOWNLOAD">Download</string>
+    <string name="BTN_LOCK">Lock</string>
+    <string name="BTN_PLAY">Play</string>
+    <string name="URL_HINT">URL...</string>
+</resources>
